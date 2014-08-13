@@ -4,7 +4,7 @@
 //Hello World Java Program
 //
 //  first compile the program
-//      javac HelloWorld.java
+//      javac HelloWorld.java 
 //  run the program
 //      java HelloWorld//
 
@@ -22,7 +22,7 @@ public class HelloWorld{
     System.out.println("#                      #");
     System.out.println("########################");
     System.out.println("########################");
-    System.out.println("test");
+    System.out.println("testing");
     
     //test/testtest
   }  
